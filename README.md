@@ -1,0 +1,1 @@
+Implementing a code for how PCA works and apply it to an image to see difference between how was the image before dimensionality reduction and after applying this technique to it.
